@@ -16,4 +16,4 @@ There's a lot of change happening at GoDaddy. We're overhauling the way we work 
 
 Get in contact
 ====
-If you are interested, just shoot us an e-mail at [mailto:nodejs@godaddy.com](nodejs@godaddy.com) 
+If you are interested, just shoot us an e-mail at [nodejs@godaddy.com](mailto:nodejs@godaddy.com) 
