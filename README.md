@@ -13,3 +13,7 @@ Solid company with the heart of a Startup
 ====
 
 There's a lot of change happening at GoDaddy. We're overhauling the way we work and you can have a stake in our future. We've got the resources of a billion-dollar company with the heart of a startup.
+
+Get in contact
+====
+If you are interested, just shoot us an e-mail at [mailto:nodejs@godaddy.com](nodejs@godaddy.com) 
